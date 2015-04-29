@@ -1,0 +1,22 @@
+{
+  "name": "Angular_Application",
+  "version": "1.0.0",
+  "description": "KOT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Anandharaj/Angular_Application.git"
+  },
+  "author": "Anandharaj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anandharaj/Angular_Application/issues"
+  },
+  "homepage": "https://github.com/Anandharaj/Angular_Application",
+  "dependencies": {
+    "express": "latest"
+  }
+}
