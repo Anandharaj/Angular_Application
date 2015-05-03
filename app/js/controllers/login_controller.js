@@ -1,3 +1,5 @@
-app.controller('login', ['$scope',function(scope) {
+kot.controller('loginCtrl', ['$scope',function(scope) {
+
 	scope.title = "Hotel Management system";
+
 }]);
